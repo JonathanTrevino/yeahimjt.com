@@ -5,3 +5,8 @@ header {
     font-family: courier;
 
 }
+h1 {
+    text-align: center;
+    font-size: 30px;
+    font-family: courier;
+}
