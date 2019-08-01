@@ -1,4 +1,4 @@
-header {
+header, footer {
     background-color: greenyellow;
     text-align: center;
     font-family: courier;
@@ -10,6 +10,5 @@ h2 {
     font-family: courier;
 }
 p {
-    font-size: 10px;
     font-family: courier;
 }
