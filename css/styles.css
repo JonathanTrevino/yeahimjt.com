@@ -10,6 +10,7 @@ h2 {
     font-family: courier;
 }
 p {
-    font-size: 20px;
+    font-size: 10px;
     font-family: courier;
+    background-color: lightgray;
 }
